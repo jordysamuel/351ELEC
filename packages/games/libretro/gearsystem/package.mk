@@ -20,7 +20,7 @@
 ################################################################################
 
 PKG_NAME="gearsystem"
-PKG_VERSION="518651a63c54a1eebbb33fbfd98b36bf4cee976e"
+PKG_VERSION="3efb9b92dd28a5a7e111310242eeff31662b24bf"
 PKG_SHA256=""
 PKG_REV="1"
 PKG_ARCH="any"
